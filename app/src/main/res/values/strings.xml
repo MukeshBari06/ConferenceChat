@@ -1,0 +1,22 @@
+<resources>
+    <!--
+       <string name="server_url">https://parseapi.back4app.com/</string>
+
+    <string name="app_id">IQiIP9YmkbFGt6XRekSB1iHV6gOu6R0CK5xUv2qM</string>
+    <string name="client_key">Tp84MJAv9dksGMSTOl88eQ8dZS6fUnph6BgqnttB</string>
+
+    -->
+    <!--
+    password    xvdBdcPopti6
+    -->
+
+    <string name="server_url">http://18.217.87.243:80/parse/</string>
+
+    <string name="app_id">5dda48b8ea337bd99e56b09aec05454e4057e160</string>
+    <string name="client_key">f29b4cc03da0168094388fd1f2fbc423399352ac</string>
+
+    <string name="app_name">Say hello</string>
+
+</resources>
+
+
